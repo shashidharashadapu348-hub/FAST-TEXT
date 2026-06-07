@@ -125,4 +125,4 @@ This repository does not include a license file by default. Suggested: MIT. Add 
 ---
 
 - **Maintainer:** [shashidharashadapu348@gmail.com](mailto:shashidharashadapu348@gmail.com)
-- **Repository:** [https://github.com/shashidharashadapu348-hub/FAST-TEXT.IO](https://github.com/shashidharashadapu348-hub/FAST-TEXT.IO)
+- **Repository:** [https://github.com/shashidharashadapu348-hub/FAST-TEXT](https://github.com/shashidharashadapu348-hub/FAST-TEXT)
